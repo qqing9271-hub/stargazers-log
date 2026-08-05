@@ -1,0 +1,26 @@
+[
+  {
+    "name": "octocat/Spoon-Knife",
+    "html_url": "https://github.com/octocat/Spoon-Knife",
+    "description": "This repo is for demonstration purposes only.",
+    "stargazers_count": 12100,
+    "language": "HTML",
+    "starred_at": "2026-08-01T10:12:00Z"
+  },
+  {
+    "name": "github/docs",
+    "html_url": "https://github.com/github/docs",
+    "description": "Documentation for GitHub products and features.",
+    "stargazers_count": 53000,
+    "language": "Markdown",
+    "starred_at": "2026-08-03T15:30:00Z"
+  },
+  {
+    "name": "microsoft/TypeScript",
+    "html_url": "https://github.com/microsoft/TypeScript",
+    "description": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.",
+    "stargazers_count": 110000,
+    "language": "TypeScript",
+    "starred_at": "2026-08-05T08:45:00Z"
+  }
+]
